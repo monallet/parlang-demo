@@ -1,12 +1,12 @@
 # Parlang Demo
 
-Parlang Demo is a public, simplified SwiftUI preview of the Parlang app concept. It is not the production iOS/macOS application and does not include confidential source, private backend logic, Supabase configuration, credentials, generated dictionaries, or release-only study flows.
+Parlang Demo is a public, simplified SwiftUI preview of the Parlang app concept. It is not the production iOS/macOS application and does not include confidential source, private backend logic, cloud configuration, full dictionaries, or release-only study flows.
 
 ## Demo Scope
 
 - `Menu`: language selection for the visible vocabulary surface
-- `Lists`: rough vocabulary list browsing with static sample entries
-- `Mine`: short explanation of the Book concept and a brief mention of personalised study sessions
+- `Lists`: vocabulary list browsing with static sample entries
+- `Mine`: explanation of the study session concept and a brief mention of personalised study sessions
 - `Settings`: search filters only; other settings intentionally remain placeholders
 
 ## Running
