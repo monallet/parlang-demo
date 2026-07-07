@@ -1,6 +1,6 @@
 # Parlang Demo
 
-Parlang Demo is a public, simplified SwiftUI preview of the Parlang app concept. It is not the production iOS/macOS application and does not include confidential source, private backend logic, cloud configuration, full dictionaries, or release-only study flows.
+Parlang Demo is a public, simplified SwiftUI preview of the Parlang/Parlang2 app concept. It is not the production iOS/macOS application and does not include confidential source, private backend logic, cloud configuration, full dictionaries, or release-only study flows.
 
 ## Demo Scope
 
